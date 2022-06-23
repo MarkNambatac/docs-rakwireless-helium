@@ -507,7 +507,7 @@ module.exports = {
     },
     {
       type: "category",
-      label: "RAK Wireless",
+      label: "RAKwireless",
       items: [
         "use-the-network/devices/development/rakwireless/wisblock-4631/wisblock-4631",
         "use-the-network/devices/development/rakwireless/rak7431",
